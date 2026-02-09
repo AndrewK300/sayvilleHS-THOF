@@ -1,0 +1,559 @@
+{"_type":"championship","sport":"FOOTBALL","year":1950,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1951,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1961,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1962,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1963,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1968,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1972,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1978,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1981,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1988,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1989,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1990,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1991,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1993,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1995,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1998,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2001,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2007,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2010,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2014,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2018,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2019,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2020,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1968,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1972,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1978,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1983,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1989,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1998,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2004,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2006,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2008,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2010,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2011,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2012,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2014,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2015,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2019,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2020,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2022,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2024,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1998,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2004,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2006,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2008,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2011,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2015,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2022,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1972,"category":"RUTGERS TROPHY","title":"RUTGERS TROPHY WINNERS\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2004,"category":"RUTGERS TROPHY","title":"RUTGERS TROPHY WINNERS\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2011,"category":"RUTGERS TROPHY","title":"RUTGERS TROPHY WINNERS\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2020,"category":"RUTGERS TROPHY","title":"RUTGERS TROPHY WINNERS\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2022,"category":"RUTGERS TROPHY","title":"RUTGERS TROPHY WINNERS\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2024,"category":"RUTGERS TROPHY","title":"RUTGERS TROPHY WINNERS\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1968,"category":"UNDEFEATED","title":"7-0-1\r"}
+{"_type":"championship","sport":"FOOTBALL","year":1972,"category":"UNDEFEATED","title":"9-0\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2004,"category":"UNDEFEATED","title":"11-0\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2011,"category":"UNDEFEATED","title":"12-0\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2015,"category":"UNDEFEATED","title":"12-0\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2020,"category":"UNDEFEATED","title":"7-0\r"}
+{"_type":"championship","sport":"FOOTBALL","year":2022,"category":"UNDEFEATED","title":"12-0\r"}
+{"_type":"championship","sport":"CHEER - COMPETITIVE","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CHEER - COMPETITIVE","year":2018,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CHEER - COMPETITIVE","year":2009,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"CHEER - COMPETITIVE","year":0,"category":"OTHER","title":"LI & NATIONAL SEMI-FINALIST\r"}
+{"_type":"championship","sport":"CHEER - GAMEDAY","year":2023,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CHEER - GAMEDAY","year":0,"category":"STATE","title":"3RD IN NYS (CLASS B)\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1963,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1970,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1972,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1973,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1974,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1975,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1976,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1977,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1978,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1979,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1980,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1981,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1982,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1983,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1984,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1985,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1987,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1988,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1989,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1990,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1991,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1992,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1993,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1994,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1995,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1998,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1999,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2000,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2001,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2002,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2007,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2014,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2018,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2020,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1963,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1974,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1981,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1982,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1991,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1996,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1997,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1998,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2014,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1992,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1996,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1997,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2007,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2008,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":2014,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1963,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - BOYS","year":1974,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":1987,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":1991,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":1992,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":1998,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2020,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":1991,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2005,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2006,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2020,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2021,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2022,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2023,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2024,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2022,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - GIRLS","year":2023,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1964,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1965,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1966,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1968,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1969,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1970,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1971,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1972,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1975,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1983,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1985,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1992,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1995,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1998,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1999,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2000,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2001,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1965,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1968,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1970,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1971,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1999,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2000,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2004,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2005,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2006,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":1971,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"CROSS COUNTRY - BOYS","year":2000,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":1979,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":1980,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":1981,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":1987,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":1999,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2000,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2001,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2002,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2003,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2007,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2010,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2006,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FIELD HOCKEY","year":2011,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":1993,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":1998,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":1999,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2003,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2010,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2014,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":1998,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":1999,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2010,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - GIRLS","year":2013,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":1960,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":1972,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":1979,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":1999,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2000,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2001,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2007,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2010,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2001,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2007,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2010,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2013,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2001,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2007,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2010,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOCCER - BOYS","year":2010,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":1977,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":1979,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":1980,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2018,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2022,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2023,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2024,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":2024,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":0,"category":"STATE","title":"3RD IN NYS (CLASS A)\r"}
+{"_type":"championship","sport":"VOLLEYBALL - GIRLS","year":0,"category":"OTHER","title":"CLASS A SOUTHEAST REGIONAL CHAMPIONS\r"}
+{"_type":"championship","sport":"VOLLEYBALL - BOYS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - BOYS","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - BOYS","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - BOYS","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"VOLLEYBALL - BOYS","year":2013,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1979,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1985,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1988,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1991,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1994,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1995,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2003,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2007,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - GIRLS","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":1981,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":1982,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":1983,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":1988,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":1991,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":1998,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2003,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2007,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2018,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2020,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - GIRLS","year":2015,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1939,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1947,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1949,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1950,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1951,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1952,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1970,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1989,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1990,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1947,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - BOYS","year":1951,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - GIRLS","year":1976,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - GIRLS","year":1977,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - GIRLS","year":1979,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - GIRLS","year":1980,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - GIRLS","year":1981,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASKETBALL - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - DUAL MEETS","year":1975,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - DUAL MEETS","year":1976,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - DUAL MEETS","year":1983,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - DUAL MEETS","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - DUAL MEETS","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - DUAL MEETS","year":2025,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - TOURNAMENTS","year":1983,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - TOURNAMENTS","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - TOURNAMENTS","year":2025,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WRESTLING - TOURNAMENTS","year":2022,"category":"SUFFOLK COUNTY","title":"2022 SECTION XI DIVISION I INDIVIDUAL TOURNAMENT CHAMPIONS\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":1981,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":1982,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":1984,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":1985,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":1994,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2000,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2010,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2014,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SWIMMING AND DIVING - BOYS","year":2020,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - BOYS","year":2019,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - GIRLS","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - GIRLS","year":2025,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - GIRLS","year":1995,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - GIRLS","year":2009,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"WINTER TRACK AND FIELD - GIRLS","year":2019,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BOWLING","year":1990,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BOWLING","year":1991,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BOWLING","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BOWLING","year":1959,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BOWLING","year":1991,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BOWLING","year":2011,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FENCING - BOYS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1926,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1937,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1950,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1963,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1979,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1983,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1984,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1992,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1999,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2025,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":1938,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2019,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2025,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2019,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2025,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"BASEBALL","year":2025,"category":"STATE","title":"CLASS A SOUTHEAST REGIONAL CHAMIONS, CLASS A NYS SEMIFINALIST\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1976,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1977,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2003,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2014,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2018,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2019,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1996,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1999,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2003,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2005,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2009,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2012,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2013,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2014,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2019,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1996,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":1999,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2003,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2012,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2013,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2014,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2019,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"SOFTBALL","year":2012,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1968,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1969,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1970,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1971,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1972,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1975,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1976,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1978,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1981,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1937,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1938,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1939,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - BOYS","year":1949,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":1983,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":1984,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":1995,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":1996,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2001,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2002,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2022,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2023,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":1995,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2021,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2022,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2023,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"SPRING TRACK AND FIELD - GIRLS","year":2024,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2002,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2003,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2010,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2014,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2017,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2019,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2021,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2025,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2010,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2016,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2017,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2018,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2019,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2004,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2002,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2003,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2006,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2007,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2002,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2003,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2007,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"GOLF - GIRLS","year":2010,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1964,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1965,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1966,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1967,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1968,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1986,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1991,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1994,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1997,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1935,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1938,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"TENNIS - BOYS","year":1940,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2007,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2012,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2013,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2015,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2016,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2018,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2009,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2012,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - BOYS","year":2009,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2004,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2005,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2006,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2008,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2009,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2011,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2014,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2025,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2009,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2014,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2024,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2024,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2024,"category":"STATE","title":"STATE CHAMPION\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":2024,"category":"UNDEFEATED","title":"21-0\r"}
+{"_type":"championship","sport":"LACROSSE - GIRLS","year":0,"category":"OTHER","title":"RANKED 11TH IN THE COUNTRY\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2024,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2025,"category":"LEAGUE","title":"LEAGUE CHAMPION\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2024,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2025,"category":"SUFFOLK COUNTY","title":"SUFFOLK COUNTY CHAMPION\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2024,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2025,"category":"LONG ISLAND","title":"LONG ISLAND CHAMPION\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2024,"category":"STATE","title":"RUNNER-UP IN DIVISION II NYS CHAMPIONSHIPS\r"}
+{"_type":"championship","sport":"FLAG FOOTBALL - GIRLS","year":2025,"category":"STATE","title":"CLASS B NYS SEMIFINALIST\r"}
