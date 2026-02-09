@@ -140,7 +140,12 @@ export default function ChampionshipsPage() {
       className="absolute inset-0 w-full h-full object-fill"
     />
 
-    <div className="absolute inset-0 flex flex-col text-white px-9">
+    <div className="absolute top-10 px-10 left-0 right-0 text-center text-white font-bold leading-none" style={{fontSize: 'clamp(0.7rem, 1.5vw, 1rem)'}}>
+  {championship.sport}
+</div>
+
+
+    <div className="absolute top-12 inset-0 flex flex-col text-white px-9">
       <h3
   style={{
     fontSize: 'clamp(1.1rem, 3vw, 1rem)',
@@ -154,7 +159,7 @@ export default function ChampionshipsPage() {
 
     </div>
 
-    <div className="absolute inset-0 flex items-center justify-center text-white pt-20">
+    <div className="absolute top-10 inset-0 flex items-center justify-center text-white pt-20">
 <p
   style={{
     fontSize: 'clamp(0.9rem, 2vw, 1.4rem)',
