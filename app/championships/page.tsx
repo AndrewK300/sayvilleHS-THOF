@@ -80,7 +80,7 @@ export default function ChampionshipsPage() {
   className="shrink-0 text-white font-bold text-center py-2 md:py-4 leading-tight"
   style={{
     backgroundColor: '#4b2d83',
-    fontSize: 'clamp(1.1rem, 2.5vw, 1.875rem)',
+    fontSize: 'clamp(0.1rem, 2.5vw, 1.875rem)',
   }}
 >
   SPORTS
