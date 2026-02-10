@@ -140,9 +140,7 @@ export default function ChampionshipsPage() {
       className="absolute inset-0 w-full h-full object-fill"
     />
 
-    <div className="absolute top-10 px-10 left-0 right-0 text-center text-white leading-none" style={{fontSize: 'clamp(0.7rem, 1.5vw, 1rem)', fontFamily:'OldSport, sans-serif'}}>
-  {championship.sport}
-</div>
+   
 
 
     <div className="absolute top-12 inset-0 flex flex-col text-white px-12">
