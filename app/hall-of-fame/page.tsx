@@ -183,7 +183,7 @@ className="py-4 text-center text-2xl font-semibold cursor-pointer transition-col
               <div
   className="relative flex bg-transparent"
   style={{
-    width: '72vw',
+    width: '64vw',
     maxWidth: '1200px',
     minWidth: '320px',
     height: '85vh',
