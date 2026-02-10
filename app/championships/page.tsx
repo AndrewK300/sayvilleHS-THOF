@@ -80,7 +80,7 @@ export default function ChampionshipsPage() {
   className="shrink-0 text-white font-bold text-center py-2 md:py-4 leading-tight"
   style={{
     backgroundColor: '#4b2d83',
-    fontSize: 'clamp(0.1rem, 2.5vw, 1.875rem)',
+    fontSize: 'clamp(1.1rem, 2.5vw, 1.875rem)',
   }}
 >
   SPORTS
@@ -108,7 +108,7 @@ export default function ChampionshipsPage() {
                   >
                     <span
   style={{
-    fontSize: 'clamp(0.9rem, 1.8vw, 1.875rem)',
+    fontSize: 'clamp(0.9rem, 1.3vw, 1.875rem)',
     lineHeight: '1',
     display: 'block',
     textAlign: 'center',
@@ -140,19 +140,20 @@ export default function ChampionshipsPage() {
       className="absolute inset-0 w-full h-full object-fill"
     />
 
-    <div className="absolute top-10 px-10 left-0 right-0 text-center text-white font-bold leading-none" style={{fontSize: 'clamp(0.7rem, 1.5vw, 1rem)'}}>
+    <div className="absolute top-10 px-10 left-0 right-0 text-center text-white leading-none" style={{fontSize: 'clamp(0.7rem, 1.5vw, 1rem)', fontFamily:'OldSport, sans-serif'}}>
   {championship.sport}
 </div>
 
 
-    <div className="absolute top-12 inset-0 flex flex-col text-white px-9">
+    <div className="absolute top-12 inset-0 flex flex-col text-white px-12">
       <h3
   style={{
-    fontSize: 'clamp(1.1rem, 3vw, 1rem)',
+    fontSize: 'clamp(1rem, 3vw, 1rem)',
     lineHeight: '1.1',
     textAlign: 'center',
+    fontFamily:'OldSport, sans-serif'
   }}
-  className="font-bold mt-10"
+  className=" mt-10" 
 >
   {championship.title}
 </h3>
@@ -164,8 +165,9 @@ export default function ChampionshipsPage() {
   style={{
     fontSize: 'clamp(0.9rem, 2vw, 1.4rem)',
     lineHeight: '1',
+    fontFamily:'OldSport, sans-serif'
   }}
-  className="font-semibold"
+
 >
   {championship.year}
 </p>    </div>
