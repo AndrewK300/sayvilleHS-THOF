@@ -21,12 +21,13 @@ export default function Footer({ onHallOfFameClick }: FooterProps) {
   return (
     <footer className="w-full h-full flex justify-around items-center px-6" style={{ backgroundColor: '#332057' }}>
       <button
-        className="w-[25%] h-[80%] text-white text-[clamp(12px,2.2vw,46px)] font-bold uppercase transition whitespace-nowrap overflow-hidden trancate"
+        className="w-[25%] h-[80%] text-white text-[clamp(12px,2.2vw,46px)] transition whitespace-nowrap overflow-hidden truncate"
         style={{
           backgroundColor: pathname === '/hall-of-fame' ? '#b9a578' : '#4a2d81',
           outline: pathname === '/hall-of-fame' ? '3px solid white' : 'none',
           outlineOffset: '-3px',
           color: pathname === '/hall-of-fame' ? '#4a2d81' : 'white',
+          fontFamily: 'OldSport, sans-serif',
         }}
         onMouseEnter={(e) => {
           if (pathname !== '/hall-of-fame') {
@@ -44,12 +45,13 @@ export default function Footer({ onHallOfFameClick }: FooterProps) {
       </button>
 
       <button
-        className="w-[25%] h-[80%] text-white text-[clamp(12px,2.2vw,46px)] font-bold uppercase transition whitespace-nowrap overflow-hidden trancate"
+        className="w-[25%] h-[80%] text-white text-[clamp(12px,2.2vw,46px)]  transition whitespace-nowrap overflow-hidden truncate"
         style={{
           backgroundColor: pathname === '/championships' ? '#b9a578' : '#4a2d81',
           outline: pathname === '/championships' ? '3px solid white' : 'none',
           outlineOffset: '-3px',
           color: pathname === '/championships' ? '#4a2d81' : 'white',
+          fontFamily: 'OldSport, sans-serif',
         }}
         onMouseEnter={(e) => {
           if (pathname !== '/championships') {
@@ -67,12 +69,13 @@ export default function Footer({ onHallOfFameClick }: FooterProps) {
       </button>
 
       <button
-        className="w-[25%] h-[80%] text-white text-[clamp(12px,2.2vw,46px)] font-bold uppercase transition whitespace-nowrap overflow-hidden trancate"
+        className="w-[25%] h-[80%] text-white text-[clamp(12px,2.2vw,46px)]  transition whitespace-nowrap overflow-hidden truncate"
         style={{
           backgroundColor: pathname === '/yearbooks' ? '#b9a578' : '#4a2d81',
           outline: pathname === '/yearbooks' ? '3px solid white' : 'none',
           outlineOffset: '-3px',
           color: pathname === '/yearbooks' ? '#4a2d81' : 'white',
+          fontFamily: 'OldSport, sans-serif',
         }}
         onMouseEnter={(e) => {
           if (pathname !== '/yearbooks') {
