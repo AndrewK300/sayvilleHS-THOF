@@ -186,7 +186,7 @@ className="py-4 text-center text-2xl font-semibold cursor-pointer transition-col
     width: '90vw',
     maxWidth: '1200px',
     minWidth: '320px',
-    height: '80vh',
+    height: '75vh',
     maxHeight: '800px',
   }}
 >
