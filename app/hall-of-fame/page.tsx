@@ -138,7 +138,7 @@ className="py-4 text-center text-2xl font-semibold cursor-pointer transition-col
                     <img 
                       src={inductee.photoUrl}
                       alt={`${inductee.firstName} ${inductee.lastName}`}
-                      className="absolute inset-0 w-full h-full object-cover"
+                      className="absolute inset-0 w-full h-full object-cover" 
                     />
                   )}
                   
@@ -159,10 +159,10 @@ className="py-4 text-center text-2xl font-semibold cursor-pointer transition-col
                   {/* Text content */}
                   {/* Text content */}
 <div className="absolute bottom-1 left-2 right-12 flex flex-col text-white leading-none">
-  <span className="font-bold text-sm md:text-base lg:text-lg truncate leading-none">
+  <span className=" text-sm md:text-base lg:text-lg truncate leading-none" style={{fontFamily: 'OldSport, sans-serif',}}>
   {inductee.firstName}
 </span>
-<span className="font-bold text-sm md:text-base lg:text-lg truncate leading-none">
+<span className=" text-sm md:text-base lg:text-lg truncate leading-none"style={{fontFamily: 'OldSport, sans-serif',}}>
   {inductee.lastName}
 </span>
   <span className="text-xs md:text-sm lg:text-base opacity-90">
@@ -183,10 +183,10 @@ className="py-4 text-center text-2xl font-semibold cursor-pointer transition-col
               <div
   className="relative flex bg-transparent"
   style={{
-    width: '67vw',
+    width: '90vw',
     maxWidth: '1200px',
     minWidth: '320px',
-    height: '85vh',
+    height: '80vh',
     maxHeight: '800px',
   }}
 >
@@ -229,8 +229,8 @@ className="py-4 text-center text-2xl font-semibold cursor-pointer transition-col
                     </p>
                     <p className="mb-6" style={{ color: '#b9a578', fontSize: '2.5vw' }}>Inducted {selectedInductee.inductionYear}</p>
                     
-                    <h2 className="font-bold leading-tight" style={{ fontSize: '3.5vw' }}>{selectedInductee.firstName}</h2>
-                    <h2 className="font-bold leading-tight mb-6" style={{ fontSize: '3.5vw' }}>{selectedInductee.lastName}</h2>
+                    <h2 className=" leading-tight" style={{ fontSize: '3.5vw', fontFamily:'OldSport, sans-serif'}}>{selectedInductee.firstName}</h2>
+                    <h2 className=" leading-tight " style={{ fontSize: '3.5vw', fontFamily:'OldSport, sans-serif'}}>{selectedInductee.lastName}</h2>
                     
                     <p className="font-bold mb-4" style={{ color: '#b9a578', fontSize: '2vw' }}>
                       {selectedInductee.qualifications?.join(', ') || 'N/A'}
