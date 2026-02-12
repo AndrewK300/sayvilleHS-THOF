@@ -29,7 +29,7 @@ export default async function HomePage() {
     max-w-[90vw]
   "
 >
-  Interactive System Graciously Funded by{' '}
+  <span className="font-italic">Interactive System Graciously Funded by{' '}</span>
   <span className="font-bold">The Sayville Athletic Foundation</span>
 </div>
 
