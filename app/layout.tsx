@@ -13,9 +13,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body className="w-screen h-screen overflow-hidden bg-black">
         <Providers>
-          <InactivityTimer timeout={60000} /> {/* Change to 60000 for production */}
-          <Header />
-
+          <InactivityTimer timeout={60000} homeTimeout={300000} />          
+            <Header />
           {/* directly render children */}
           {children}
         </Providers>
