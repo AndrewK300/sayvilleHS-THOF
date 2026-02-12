@@ -5,9 +5,10 @@ import { useRouter, usePathname } from 'next/navigation'
 
 interface InactivityTimerProps {
   timeout?: number // in milliseconds
+  homeTimeout?: number // timeout specifically for home page
 }
 
-export default function InactivityTimer({ timeout = 5000 }: InactivityTimerProps) {
+export default function InactivityTimer({ timeout = 60000, homeTimeout = 300000 }: InactivityTimerProps) {
   const router = useRouter()
   const pathname = usePathname()
 
@@ -15,13 +16,16 @@ export default function InactivityTimer({ timeout = 5000 }: InactivityTimerProps
     // Don't run timer on home page
     if (pathname === '/') return
 
+    // Use homeTimeout for home, regular timeout for other pages
+    const currentTimeout = pathname === '/' ? homeTimeout : timeout
+
     let timer: NodeJS.Timeout
 
     const resetTimer = () => {
       clearTimeout(timer)
       timer = setTimeout(() => {
         router.push('/')
-      }, timeout)
+      }, currentTimeout)
     }
 
     // Events to track user activity
@@ -42,7 +46,7 @@ export default function InactivityTimer({ timeout = 5000 }: InactivityTimerProps
         document.removeEventListener(event, resetTimer)
       })
     }
-  }, [pathname, router, timeout])
+  }, [pathname, router, timeout, homeTimeout])
 
   return null
 }
