@@ -23,7 +23,7 @@ export default function InactivityTimer({ timeout = 60000, homeTimeout = 300000 
       timer = setTimeout(() => {
         if (pathname === '/') {
           // On home page: refresh to get updates
-          window.location.reload()
+          router.refresh()
         } else {
           // On other pages: go back to home
           router.push('/')
