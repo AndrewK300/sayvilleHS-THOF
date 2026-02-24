@@ -6,16 +6,15 @@ import Footer from '../../components/footer'
 
 // Map years to FlipHTML5 URLs
 const yearbookUrls: Record<number, string> = {
-  2025: 'https://online.fliphtml5.com/ufqib/bcca/',
-  2024: 'https://online.fliphtml5.com/ufqib/dgae/',
-  2023: 'https://online.fliphtml5.com/ufqib/tcbv/',
+  2025: 'https://online.fliphtml5.com/ufqib/2025/',
+  2024: 'https://online.fliphtml5.com/ufqib/2024/',
+  2023: 'https://online.fliphtml5.com/ufqib/2023/',
   // Add more years and their URLs here
 }
 
 export default function YearbooksPage() {
   const years = [
-    2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016,
-    2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006,
+    2025, 2024, 2023, 
   ]
 
   const [selectedYear, setSelectedYear] = useState<number | null>(years[0])
