@@ -31,9 +31,11 @@ export default function InactivityTimer({ timeout = 60000, homeTimeout = 300000 
       }, currentTimeout)
     }
 
-    // Events to track user activity
-    const events = ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart', 'click']
+    // Events to track user activity; Added 'input' and 'keyup' events
+    const events = ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart', 'click','input',
+  'keyup'];
 
+  
     // Set up event listeners
     events.forEach(event => {
       document.addEventListener(event, resetTimer)
