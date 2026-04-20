@@ -6,7 +6,7 @@ import Footer from '../../components/footer'
 
 // Map years to FlipHTML5 URLs
 const yearbookUrls: Record<number, string> = {
-  /*2025: 'https://online.fliphtml5.com/ufqib/2025/',
+  2025: 'https://online.fliphtml5.com/ufqib/2025/',
   2024: 'https://online.fliphtml5.com/ufqib/2024/',
   2023: 'https://online.fliphtml5.com/ufqib/2023/',
   2022: 'https://online.fliphtml5.com/ufqib/2022/',
@@ -98,7 +98,7 @@ const yearbookUrls: Record<number, string> = {
   1932: 'https://online.fliphtml5.com/ufqib/1932/',
   1930: 'https://online.fliphtml5.com/ufqib/1930/',
   1927: 'https://online.fliphtml5.com/ufqib/1927---Combined-and-OCR/',
-  1926: 'https://online.fliphtml5.com/ufqib/1926---Combined-and-OCR/',*/
+  1926: 'https://online.fliphtml5.com/ufqib/1926---Combined-and-OCR/',
 }
 
 export default function YearbooksPage() {
