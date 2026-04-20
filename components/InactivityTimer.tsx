@@ -8,7 +8,7 @@ interface InactivityTimerProps {
   homeTimeout?: number // timeout for home page
 }
 
-export default function InactivityTimer({ timeout = 60000, homeTimeout = 300000 }: InactivityTimerProps) {
+export default function InactivityTimer({ timeout = 120000, homeTimeout = 300000 }: InactivityTimerProps) {
   const router = useRouter()
   const pathname = usePathname()
 
