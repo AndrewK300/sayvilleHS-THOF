@@ -72,6 +72,7 @@ const yearbookUrls: Record<number, string> = {
   1961: 'https://online.fliphtml5.com/ufqib/1961/',
   1960: 'https://online.fliphtml5.com/ufqib/1960/',
   1957: 'https://online.fliphtml5.com/ufqib/1957/',
+  1956: 'https://online.fliphtml5.com/ufqib/1956/',
   1955: 'https://online.fliphtml5.com/ufqib/1955/',
   1954: 'https://online.fliphtml5.com/ufqib/1954/',
   1953: 'https://online.fliphtml5.com/ufqib/1953/',
